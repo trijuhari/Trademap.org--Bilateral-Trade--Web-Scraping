@@ -1537,3 +1537,120 @@ JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError
 
 console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
 1629729789677	Marionette	INFO	Stopped listening on port 45371
+1629730531024	geckodriver	INFO	Listening on 127.0.0.1:34567
+1629730532036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePp1TBu"
+1629730532538	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePp1TBu/search.json.mozlz4", (void 0)))
+1629730537127	Marionette	INFO	Listening on port 39399
+1629730537413	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 495: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 504: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 513: unreachable code after return statement
+1629730542917	Marionette	INFO	Stopped listening on port 39399
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629730554196	geckodriver	INFO	Listening on 127.0.0.1:36023
+1629730555168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIfiuJ2"
+1629730555954	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIfiuJ2/search.json.mozlz4", (void 0)))
+1629730559179	Marionette	INFO	Listening on port 42303
+1629730559395	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 495: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 504: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 513: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+1629730578505	Marionette	INFO	Stopped listening on port 42303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629730579704	geckodriver	INFO	Listening on 127.0.0.1:37051
+1629730580735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVWemsN"
+1629730581207	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVWemsN/search.json.mozlz4", (void 0)))
+1629730585475	Marionette	INFO	Listening on port 36705
+1629730585767	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 495: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 504: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 513: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c1%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+1629730603940	Marionette	INFO	Stopped listening on port 36705
+1629730605382	geckodriver	INFO	Listening on 127.0.0.1:49509
+1629730606342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecactLL"
+1629730607069	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecactLL/search.json.mozlz4", (void 0)))
+1629730611247	Marionette	INFO	Listening on port 35367
+[Parent 53418, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /PROJECT/firefox-90.0.2+linuxmint1+uma/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 53418, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /PROJECT/firefox-90.0.2+linuxmint1+uma/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1629730611678	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 495: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 504: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 513: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c004%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+1629730630304	Marionette	INFO	Stopped listening on port 35367
+1629730631490	geckodriver	INFO	Listening on 127.0.0.1:46281
+1629730632498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13ytzo"
+1629730633073	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile13ytzo/search.json.mozlz4", (void 0)))
+1629730637475	Marionette	INFO	Listening on port 40001
+1629730637828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 495: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 504: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx, line 513: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 491: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 500: unreachable code after return statement
+JavaScript warning: https://www.trademap.org/Bilateral_TS.aspx?nvpm=1%7c360%7c%7c577%7c%7cTOTAL%7c%7c%7c2%7c1%7c1%7c2%7c2%7c1%7c1%7c1%7c1%7c1, line 509: unreachable code after return statement
+1629730655804	Marionette	INFO	Stopped listening on port 40001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
