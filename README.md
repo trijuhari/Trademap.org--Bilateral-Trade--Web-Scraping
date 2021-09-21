@@ -1,4 +1,4 @@
-# Trademap  Bilateral Trade  Data Scraping
+# Trademap  Bilateral Trade  Data Scraping v2
 
 <p align="center">
   <img src="image.png" alt="Sublime's custom image"/>
@@ -16,7 +16,7 @@ In this project, we create web scraper with Selenium and  BeautifulSoup using py
 
 ## Project Files
 
-```test.ipynb``` -> a jupyter notebook contains python code for testing  scraping in trademap.org website
+```testing.ipynb``` -> a jupyter notebook contains python code for testing  scraping in trademap.org website
 
 ```final_scraping.ipynb``` -> a jupyter notebook contains python code that final code for   scraping in trademap.org website
 
