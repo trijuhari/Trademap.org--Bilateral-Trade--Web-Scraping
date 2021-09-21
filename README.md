@@ -1,4 +1,4 @@
-# Trademap  Bilateral Trade  Data Scraping
+# Trademap  Bilateral Trade  Data Scraping v2
 
 <p align="center">
   <img src="image.png" alt="Sublime's custom image"/>
